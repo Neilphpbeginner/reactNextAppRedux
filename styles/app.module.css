@@ -1,0 +1,14 @@
+.home {
+      display: flex;
+      align-items: center;
+      flex-direction: column;
+  }
+
+  .homeButtons {
+    display: flex;
+    margin: 2.5rem;
+
+    button {
+      margin: 5rem;
+    }
+  }
