@@ -5,13 +5,13 @@
 }
 
 .home > h1 {
-  font-size: 5.5rem;
+  font-size: 6.5rem;
 }
 
 .homeButtons {
   display: flex;
   margin: 1.5rem;
-  flex-flow: wrap;
+  flex-flow: row;
   justify-content: space-between;
 }
 
