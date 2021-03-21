@@ -16,8 +16,4 @@ const counterReducer = (state = initialState, action) => {
   }
 };
 
-// const rootReducer = combineReducers({
-//   counter: counterReducer,
-// });
-
 export default counterReducer;
