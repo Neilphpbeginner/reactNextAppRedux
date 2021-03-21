@@ -1,3 +1,4 @@
 module.exports = {
-  assetPrefix: ".",
+  basePath: "/reactNextAppRedux",
+  assetPrefix: "/reactNextAppRedux/",
 };
