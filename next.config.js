@@ -1,3 +1,6 @@
 module.exports = {
-  assetPrefix: "./docs",
+  exportPathMap: () => ({
+    "/": { page: "/" },
+  }),
+  assetPrefix: "",
 };
