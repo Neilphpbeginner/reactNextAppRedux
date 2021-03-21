@@ -1,6 +1,3 @@
 module.exports = {
-  exportPathMap: () => ({
-    "/": { page: "/" },
-  }),
-  assetPrefix: "",
+  assetPrefix: "./reactNextAppRedux/docs",
 };
