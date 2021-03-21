@@ -1,4 +1,3 @@
 module.exports = {
-  target: "serverless",
-  assetPrefix: "./docs",
+  assetPrefix: "https://neilphpbeginner.github.io/reactNextAppRedux/",
 };
