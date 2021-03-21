@@ -1,3 +1,4 @@
 module.exports = {
-  assetPrefix: "./docs",
+  target: "serverless",
+  assetPrefix: ".shshshshshshshs",
 };
