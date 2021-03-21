@@ -1,3 +1,3 @@
 module.exports = {
-  assetPrefix: "./reactNextAppRedux/docs",
+  assetPrefix: "./docs",
 };
