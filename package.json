@@ -19,11 +19,11 @@
     "gh-pages": "^3.1.0"
   },
   "scripts": {
-    "predeloy": "next build",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d docs",
     "dev": "next dev",
     "build": "next build",
-    "postbuild": "next export -o docs",
+    "postbuild": "next export -o docs && echo.>docs/.nojekyll",
     "start": "next start"
   },
   "keywords": [],
