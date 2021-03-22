@@ -1,3 +1,3 @@
 module.exports = {
-  basePath: "/reactNextAppRedux/docs",
+  basePath: "/reactNextAppRedux/docs/",
 };
